@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "353629487037",
+    "firebase_url": "https://coursach-cc7ee-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "coursach-cc7ee",
+    "storage_bucket": "coursach-cc7ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353629487037:android:f7292448bbc572b90edcd4",
+        "android_client_info": {
+          "package_name": "com.example.a666"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-defm3fT6lIyuZpCUZn8HsR6iOHda-2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353629487037:android:aed931bfc2300ed10edcd4",
+        "android_client_info": {
+          "package_name": "com.example.kurshach666"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-defm3fT6lIyuZpCUZn8HsR6iOHda-2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
